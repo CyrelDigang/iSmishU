@@ -24,5 +24,5 @@ Due to privacy concerns, the dataset used for training and testing is **not incl
 ## Notes
 
 - **Read the Code Carefully**: Ensure you review the codebase to locate and modify all necessary paths and configuration variables.
-- **Refer to the Documentation**: For a detailed explanation of the system, please read the included `iSmishU Documentation.pdf`.
+- **Refer to the Documentation**: For a detailed explanation of the system and a breakdown of all outputs, please read the included `iSmishU Documentation.pdf`.
 
