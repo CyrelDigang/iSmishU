@@ -28,5 +28,5 @@ Due to privacy concerns, the dataset used for training and testing is **not incl
 
 ## System
 
-![](System Images/1.jpg)
+![](System%20Images/1.jpg)
 
